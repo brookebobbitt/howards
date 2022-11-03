@@ -166,14 +166,16 @@ h3 {
   padding: 20px;
   padding-top: 25px;
   text-align: center;
+  font-family: 'Staatliches', cursive;
 }
 
 h2 {
   background-color: #918c84;
   color: #f0f8fb;
   text-align: center;
-  font-size: 2em;
+  font-size: 3em;
   opacity: 0.7;
+  font-family: 'Staatliches', cursive;
 }
 
 .notice {
@@ -199,11 +201,12 @@ h2 {
   margin-left: 7em;
 }
 
-h1 {
-  font-size: 3em;
-  color: white;
+h4 {
+  font-size: 4em;
+  color: rgb(251, 248, 248);
   font-variant: small-caps;
   text-align: center;
+  font-family: 'Staatliches', cursive;
 }
 
 .respooling {

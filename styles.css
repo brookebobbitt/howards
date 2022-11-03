@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
-
+/* Name: Brooke Bobbitt
+Date: 11/3/22
+Assignment: Live bait website */
 /* browser reset */
 * {
   padding: 0px;
@@ -158,7 +160,7 @@ figure {
   font-size: 2em;
   margin-top: 500px;
   color: white;
-  border-radius: 80;
+  border-radius: 80px;
   font-family: 'Staatliches', cursive;
 }
 
